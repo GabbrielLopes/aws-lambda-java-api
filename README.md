@@ -1,11 +1,8 @@
-<p align="center" width="100%">
-    <img width="30%" src="https://github.com/buildrun-tech/buildrun-aws-lambda-java-starter-example/blob/main/images/lambda.png"> 
-</p>
+# starting-aws-lambda-java
 
+* Projeto para estudar e obter experiência com AWS Lambda
+* Começando primeiro projeto com AWS Lambda
 
-<h3 align="center">
-  Exemplo de AWS Lambda em Java para iniciantes
-</h3>
 
 <p align="center">
 
@@ -15,7 +12,6 @@
 
 </p>
 
-Para um maior entendimento do código deste repositório, [assista nosso vídeo no Youtube, clique aqui.](https://www.youtube.com/watch?v=TBD)
 
 ## :rocket: Tecnologias utilizadas
 
@@ -25,8 +21,8 @@ Para um maior entendimento do código deste repositório, [assista nosso vídeo 
 * Jackson
 * JUnit
 
-:mag: Baixe o projeto e teste você mesmo na prática.
+<br></br>
 
-[Conheça mais sobre o nosso trabalho 😀](https://www.instagram.com/buildrun.tech/)
+[Link do template do projeto](https://github.com/buildrun-tech/buildrun-aws-lambda-java-starter-example)
 
-Developed by Build & Run
+[Créditos: Build & Run](https://www.youtube.com/watch?v=_rRvhn_uNeM&list=PLxCh3SsamNs5OTH4R3LwsssvwAscGI7zS&index=5)
