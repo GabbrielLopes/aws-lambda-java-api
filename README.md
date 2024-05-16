@@ -2,6 +2,7 @@
 
 * Projeto para estudar e obter experiência com AWS Lambda
 * Começando primeiro projeto com AWS Lambda
+* Essa Lambda Function simula receber um arquivo e comprimir seu tamanho em 20%
 
 
 <p align="center">
