@@ -14,20 +14,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-public class Handler implements
-        RequestHandler<APIGatewayProxyRequestEvent, APIGatewayProxyResponseEvent> {
+public class Handler implements RequestHandler<APIGatewayProxyRequestEvent, APIGatewayProxyResponseEvent> {
 
     private static ObjectMapper objectMapper;
-    private static List<String> carsBombastic;
 
     static {
         objectMapper = new ObjectMapper();
-
-        carsBombastic = new ArrayList<>();
-        carsBombastic.add("marea");
-        carsBombastic.add("turbo");
-        carsBombastic.add("peugeot");
-
     }
 
     @Override
